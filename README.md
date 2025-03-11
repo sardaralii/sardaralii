@@ -1,11 +1,12 @@
-🚀 DevOps Engineer with expertise in cloud services and automation
+About Me
+🚀 DevOps Engineer with cloud & automation expertise
 ☁️ Skilled in AWS, Azure, and hybrid cloud architectures
-🔄 Experienced with CI/CD pipelines using Jenkins, GitHub Actions, and Azure DevOps
+🔄 CI/CD experience with Jenkins, GitHub Actions, and Azure DevOps
 🐳 Proficient in Docker, Kubernetes, and microservices orchestration
-🛠️ Strong background in Infrastructure as Code (IaC) using Terraform and CloudFormation
-🔒 Passionate about DevSecOps, security automation, and scalable system design
-📚 Continuously learning and exploring new DevOps and cloud technologies
-🤝 Open to collaboration on innovative cloud and DevOps projects
-📩 Contact: sardaaralee.cloudlem@gmail.com
+🛠️ Strong IaC skills using Terraform & CloudFormation
+🔒 Passionate about DevSecOps, security, and scalability
+📚 Always learning and exploring new cloud technologies
+🤝 Open to DevOps and cloud collaborations
+📩 Email: sardaaralee.cloudlem@gmail.com
 🎟️ Ticket #7593 – Blowfish
 🔗 https://zenmev.com
