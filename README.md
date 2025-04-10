@@ -8,5 +8,4 @@ About Me
 📚 Always learning and exploring new cloud technologies
 🤝 Open to DevOps and cloud collaborations
 📩 Email: sardaaralee.cloudlem@gmail.com
-🎟️ Ticket #7593 – Blowfish
-🔗 https://zenmev.com
+
