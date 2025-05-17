@@ -1,11 +1,12 @@
 About Me
-🚀 DevOps Engineer with cloud & automation expertise
-☁️ Skilled in AWS, Azure, and hybrid cloud architectures
-🔄 CI/CD experience with Jenkins, GitHub Actions, and Azure DevOps
-🐳 Proficient in Docker, Kubernetes, and microservices orchestration
-🛠️ Strong IaC skills using Terraform & CloudFormation
-🔒 Passionate about DevSecOps, security, and scalability
-📚 Always learning and exploring new cloud technologies
+🚀 DevOps Engineer with expertise in cloud, automation, and security
+☁️ Skilled in AWS, Azure, hybrid cloud & IaC (Terraform, CloudFormation)
+🔄 Hands-on with CI/CD (Jenkins, GitHub Actions, Azure DevOps)
+🐳 Proficient in Docker, Kubernetes & microservices
+🔒 DevSecOps-focused & always exploring new tech
 🤝 Open to DevOps and cloud collaborations
 📩 Email: sardaaralee.cloudlem@gmail.com
+🎟️ Ticket number 6736 blowfish
+🌐 https://coincreate.org/
+🧑‍💻 ZENMEV Team – Sardar Ali
 
