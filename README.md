@@ -5,5 +5,4 @@ About Me
 🐳 Proficient in Docker, Kubernetes & microservices
 🔒 DevSecOps-focused & always exploring new tech
 🤝 Open to DevOps and cloud collaborations
-🧑‍💻 ZENMEV Team – Sardar Ali
 
